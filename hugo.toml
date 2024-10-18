@@ -1,0 +1,9 @@
+baseURL = "https://stuffbymax.me/cv-hugo/"
+languageCode = "en-gb"
+title = "Martin Petik - CV"
+theme = "hugo-resume"
+sectionPagesMenu = "main"
+paginate = 10
+
+[params]
+  mainSections = ["post"]

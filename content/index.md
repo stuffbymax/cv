@@ -72,6 +72,7 @@ Albert Einstein once said, _"Experience is relative."_
 - VSCode  ★★★☆☆
 - VSCodium  ★★★☆☆
 - GNU Nano  ★★★★★
+- batch  ★☆☆☆☆
 
 ### Design Skills
 - Adobe Apps  ★★☆☆☆

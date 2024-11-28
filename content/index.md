@@ -106,7 +106,7 @@ Albert Einstein once said, _"Experience is relative."_
 - **Czech**: Native 
 - **Polish**: Conversational
 - **Sorbian**: Conversational
-- **Interslavic **: Conversational
+- **Interslavic**: Conversational
 
 ---
 

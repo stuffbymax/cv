@@ -20,7 +20,7 @@ linkin: Not Provided
 
 ## Summary
 
-A passionate and tech-savvy individual with a strong interest in building custom desktops, installing Linux systems, web development, and programming. Currently pursuing digital support services and honing skills in various programming languages and technical tools. Known for a hands-on approach to learning, problem-solving, and creativity. Eager to apply knowledge in real-world projects and collaborate in tech-driven environments.
+A motivated individual with a interest in computer systems, Linux installations, cybersecurity, and programming. Currently studying Digital Support Services, focusing on network security and technical tools. Known for problem-solving, creativity, and a hands-on approach. Eager to apply skills in real-world projects and collaborate in tech-driven teams. 
 
 ---
 
@@ -106,7 +106,7 @@ Albert Einstein once said, _"Experience is relative."_
 - **Czech**: Native 
 - **Polish**: Conversational
 - **Sorbian**: Conversational
-- **Mezislovanština**: Conversational
+- **Interslavic **: Conversational
 
 ---
 

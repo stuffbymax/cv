@@ -1,37 +1,75 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
   <a class="navbar-brand js-scroll-trigger" href="#page-top">
-    <img class="img-fluid" src="{{ "images/hero.jpg" | relURL }}" alt="Hero Image" style="width: 150px; height: 150px;">
+    <span class="d-block d-lg-none">{{ .Site.Params.firstName }} {{ .Site.Params.lastName }}</span>
+    <span class="d-none d-lg-block">
+      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="{{ .Site.Params.profileImage | relURL }}" alt="">
+    </span>
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav">
+      <!-- About Section -->
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="{{ "#about" | relURL }}">{{ i18n "about" }}</a>
+        <a class="nav-link js-scroll-trigger" href="#about">{{ i18n "about" }}</a>
       </li>
+
+      <!-- Summary Section -->
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="{{ "#education" | relURL }}">{{ i18n "education" }}</a>
+        <a class="nav-link js-scroll-trigger" href="#summary">{{ i18n "summary" }}</a>
       </li>
+
+      <!-- Education Section -->
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="{{ "#interests" | relURL }}">{{ i18n "interests" }}</a>
+        <a class="nav-link js-scroll-trigger" href="#education">{{ i18n "education" }}</a>
       </li>
+
+      <!-- Grades Section -->
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="{{ "#experience" | relURL }}">{{ i18n "experience" }}</a>
+        <a class="nav-link js-scroll-trigger" href="#grades">{{ i18n "grades" }}</a>
       </li>
+
+      <!-- Interests Section -->
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="{{ "#skills" | relURL }}">{{ i18n "skills" }}</a>
+        <a class="nav-link js-scroll-trigger" href="#interests">{{ i18n "interests" }}</a>
       </li>
+
+      <!-- Experience Section -->
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="{{ "#projects" | relURL }}">{{ i18n "projects" }}</a>
+        <a class="nav-link js-scroll-trigger" href="#experience">{{ i18n "experience" }}</a>
       </li>
+
+      <!-- Skills Section -->
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="{{ "#achievements" | relURL }}">{{ i18n "achievements" }}</a>
+        <a class="nav-link js-scroll-trigger" href="#skills">{{ i18n "skills" }}</a>
       </li>
+
+      <!-- Certifications Section -->
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#certifications">{{ i18n "certifications" }}</a>
+      </li>
+
+      <!-- Projects Section -->
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#projects">{{ i18n "projects" }}</a>
+      </li>
+
+      <!-- Languages Section -->
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#languages">{{ i18n "languages" }}</a>
+      </li>
+
+      <!-- Achievements Section -->
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#achievements">{{ i18n "achievements" }}</a>
+      </li>
+
+      <!-- Contact Section (conditionally displayed) -->
       {{ if .Site.Params.showContact }}
-      <li class="nav-item">
-        <a class="nav-link" href="/contact">{{ i18n "contact" }}</a>
-      </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#contact">{{ i18n "contact" }}</a>
+        </li>
       {{ end }}
     </ul>
   </div>

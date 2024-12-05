@@ -12,5 +12,12 @@ min_version = "0.62"
 defaultContentLanguage = "en"
 
 [author]
-  name = "Martin Petik"
+  name = "Eddie Webbinaro"
+  homepage = "https://webbinaro.dev"
 
+
+# If porting an existing theme
+[original]
+  name = "Start Bootstrap Resume"
+  homepage = "https://startbootstrap.com/template-overviews/resume/"
+  repo = "https://github.com/BlackrockDigital/startbootstrap-resume"

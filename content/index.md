@@ -89,8 +89,21 @@ Albert Einstein once said, _"Experience is relative."_
 
 ---
 
-## Certifications
-- Curently **non** 
+## Certifications and Badges
+
+- [tryhackme](https://tryhackme.com/p/zdislav)
+
+- [netacad](https://www.netacad.com/profile?tab=badges)
+
+### IBM Skills build
+
+- [Introduction to HTML and CSS](https://skills.yourlearning.ibm.com/activity/MDL-263)
+
+- [Developing Sites for the Web](https://skills.yourlearning.ibm.com/activity/MDL-262)
+
+- [Web Development Basics](https://skills.yourlearning.ibm.com/activity/MDL-261)
+
+- [Cybersecurity: On the Offense](https://skills.yourlearning.ibm.com/activity/MDL-405)
 ---
 
 ## Projects {#projects}
@@ -111,7 +124,7 @@ Albert Einstein once said, _"Experience is relative."_
 ---
 
 ## Achievements
-  
+- N/A
 
 
 ---

@@ -54,7 +54,44 @@ A motivated individual with a interest in computer systems, Linux installations,
 
 ## Experience
 
-Albert Einstein once said, _"Experience is relative."_
+### Tic-Tac-Toe AI Testing Site
+**Personal Project – Feb 18, 2025**
+- Built an interactive Tic-Tac-Toe game with various AI strategies (random, rule-based, minimax) using HTML, CSS, and JavaScript.
+- Leveraged ChatGPT, GitHub Copilot, and Google AI to assist with code generation, AI logic development, and debugging.
+- Designed a responsive UI, optimized for both desktop and mobile browsers.
+- Deployed the app online at [stuffbymax.me/tic-tac-toe-test](http://stuffbymax.me/tic-tac-toe-test), with version control managed on GitHub.
+
+### Operating System Share Data Visualization
+**Personal Project – Feb 12, 2025**
+- Developed a web app to visualize OS usage share statistics based on manually collected data from StatCounter.
+- Used HTML, CSS, and JavaScript to create dynamic charts and display data.
+- Designed and deployed a responsive UI, ensuring compatibility across devices.
+- Project link: [stuffbymax.me/os-share](http://stuffbymax.me/os-share)
+
+### Wiki & Blog Website using Hugo
+**Personal Project – Feb 20, 2025**
+- Built a static site using Hugo and Markdown to host wiki pages and blog content.
+- Customized layouts and themes for clean navigation and responsive design.
+- Managed content with Markdown, integrated with GitHub Pages for deployment.
+- Used Git for version control and collaborated via GitHub: [github.com/stuffbymax/wiki-blogs](https://github.com/stuffbymax/wiki-blogs)
+
+### GameSave Sharing Platform for PS3, PS2 & PSP
+**Personal Project – Oct 20, 2024**
+- Built a static site using HTML, CSS, and legacy-compatible JavaScript to ensure full functionality on older browsers like the PS3’s.
+- Hosted downloadable modded save files for PS3, PS2, and PSP games, organized by game and platform.
+- Designed a clean, low-overhead UI that works on console browsers with strict limitations.
+- Used Hugo for static site generation and GitHub for hosting and content updates.
+- Repository: [github.com/stuffbymax/gamesave](https://github.com/stuffbymax/gamesave)
+
+### Weather App using OpenWeather API
+**Personal Project – Oct 2, 2024**
+- Built a weather app that fetches real-time weather data using the Weather API.
+- Displayed dynamic weather information, such as temperature, humidity, and forecasts for any city.
+- Developed the frontend using HTML, CSS, and JavaScript, ensuring a responsive design for mobile and desktop.
+- GitHub repo: [github.com/stuffbymax/weather-web](https://github.com/stuffbymax/weather-web)
+
+### All Projects
+[GitHub Profile](https://github.com/stuffbymax)
 
 ---
 
@@ -124,7 +161,7 @@ Albert Einstein once said, _"Experience is relative."_
 ---
 
 ## Achievements
-- N/A
+- i will upload achivements at some point
 
 
 ---
